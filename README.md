@@ -1,7 +1,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20GU0RORY1!%22);">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20GU0RORY1!%22);&color=%23325928">
   </a>
 </h1> 
 <!-- 敲代码的图片 -->
